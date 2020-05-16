@@ -23,6 +23,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  curved_navigation_bar: ^0.3.2
+  google_fonts: ^1.1.0
+  flappy_search_bar: ^1.4.1
+  flutter_swiper: ^1.1.6
+  children: ^1.1.1
+  sliding_up_panel: ^1.0.2
+
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -83,3 +91,5 @@ flutter:
     - family: Bebas
       fonts:
        - asset: assets/fonts/BebasNeueRegular.otf
+
+ 
