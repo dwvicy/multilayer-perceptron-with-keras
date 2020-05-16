@@ -1,2 +1,1 @@
-# multilayer-perceptron-with-keras
-Multilayer Perceptron with Keras (Guided project on coursera)
+# Here lies the screenshots of the static app
