@@ -74,3 +74,12 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+  assets: 
+    - assets/images/#wallpaper.jpg
+    - assets/images/Childishness.png
+
+  fonts: 
+    - family: Bebas
+      fonts:
+       - asset: assets/fonts/BebasNeueRegular.otf
